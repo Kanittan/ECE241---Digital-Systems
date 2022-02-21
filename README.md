@@ -23,4 +23,6 @@ Part 3: Implemented a Morse code encoder using a Lookup Table(LUT) to store the 
 Part 1: Implemented a basic finite state machine (FSM) in Verilog\
 Part 2: Modifying a Verilog Code with Finite State Machine
 
-**Lab 7** - Created a small RAM block using Quartus IP Catalog to create memory module and testing using ModelSim
+**Lab 7** - M**emory & VGA Display**\
+Part 1: Created a small RAM block using Quartus IP Catalog to create memory module and testing using ModelSim
+Part 2: Designed a circuit that draw/displays a filled squared at any location on the VGA screen with any color.
