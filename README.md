@@ -1,6 +1,6 @@
 # ECE241---Digital-Systems
 
-### Lab Overview:\
+### Lab Overview:
 **Lab 2** - **2-to-1 Multiplexer & Seven Segment Display**\
 Part 1: Building a 2-to-1 Multiplexer using 7400-series chips (AND, OR, NOT Gate)\
 Part 2: Design a Hex Decoder for a Seven Segment Display
