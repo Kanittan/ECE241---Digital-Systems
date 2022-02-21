@@ -1,4 +1,5 @@
 # ECE241---Digital-Systems
+Lab Projects completed in Verilog Hardware Description Language(HDL) at the University of Toronto in Fall 2021.
 
 ### Lab Overview:
 **Lab 2** - **2-to-1 Multiplexer & Seven Segment Display**\
